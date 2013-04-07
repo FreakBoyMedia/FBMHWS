@@ -1,0 +1,62 @@
+#twitter{
+	color: #FFF;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	font-size: 36px;
+	line-height: normal!important;
+}
+
+.twitted {
+	
+}
+
+.twitted h2 {
+	
+}
+
+.twitted p.preLoader {
+	margin: 0;
+	padding: 0;
+	background: transparent url("loader.gif") 1em center no-repeat;
+	/* generate your own loader gif: http://www.ajaxload.info */
+}
+
+.twitted ul#twitter_update_list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.twitted ul#twitter_update_list li {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	text-align: center;
+}
+
+.twitted ul#twitter_update_list li  {
+	/* tweet content */
+	display: block;
+}
+
+.twitted ul#twitter_update_list li  a {
+	/* links in tweet content */
+	color: #fff;
+	text-align: center;
+	
+}
+
+.twitted ul#twitter_update_list li a {
+	/* timestamp link */
+	color: #fff;
+}
+
+.twitted ul#twitter_update_list li.firstTweet {
+}
+
+.twitted ul#twitter_update_list li.lastTweet {
+	border-bottom: none;
+}
+
+.twitted p.profileLink {
+	
+}
