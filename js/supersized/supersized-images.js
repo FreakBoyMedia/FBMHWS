@@ -31,11 +31,11 @@ jQuery(function($){
 					thumb_links				:	1,			// Individual thumb links for each slide
 					thumbnail_navigation    :   0,			// Thumbnail navigation
 					slides 					:  	[			// Slideshow Images
-														{image : 'image/slider/1.jpg', title : 'FreakBoy Media-House<div class="slidedescription">We Make Things Out Of Pixels</div>', thumb : '', url : 'image/slider/1.jpg'},
-														{image : 'image/slider/2.jpg', title : 'We Design<div class="slidedescription">With The User In Mind</div>', thumb : '', url : 'image/slider/2.jpg'},
-														{image : 'image/slider/3.jpg', title : 'We Develop<div class="slidedescription">Using Best Practice</div>', thumb : '', url : 'image/slider/3.jpg'},
-														{image : 'image/slider/4.jpg', title : 'We Create<div class="slidedescription">With Your Goals In Focus</div>', thumb : '', url : 'image/slider/4.jpg'},
-														{image : 'image/slider/5.jpg', title : 'We Market<div class="slidedescription">By Targeting Who Matters</div>', thumb : '', url : 'image/slider/5.jpg'}
+														{image : 'image/slider/1.jpg', title : '<div style="text-shadow: 0px 5px 6px rgba(151, 150, 150, 1);text-shadow: 5px 0px 6px rgba(151, 150, 150, 1);text-shadow: 0px -5px 6px rgba(151, 150, 150, 1);text-shadow: -5px 0px 6px rgba(151, 150, 150, 1);">FREAKBOY MEDIAHOUSE<div class="slidedescription">We Make Things Out Of Pixels</div></div>', thumb : '', url : 'image/slider/1.jpg'},
+														{image : 'image/slider/2.jpg', title : '<div style="text-shadow: 0px 5px 6px rgba(151, 150, 150, 1);text-shadow: 5px 0px 6px rgba(151, 150, 150, 1);text-shadow: 0px -5px 6px rgba(151, 150, 150, 1);text-shadow: -5px 0px 6px rgba(151, 150, 150, 1);">We Design<div class="slidedescription">With The User In Mind</div></div>', thumb : '', url : 'image/slider/2.jpg'},
+														{image : 'image/slider/3.jpg', title : '<div style="text-shadow: 0px 5px 6px rgba(151, 150, 150, 1);text-shadow: 5px 0px 6px rgba(151, 150, 150, 1);text-shadow: 0px -5px 6px rgba(151, 150, 150, 1);text-shadow: -5px 0px 6px rgba(151, 150, 150, 1);">We Develop<div class="slidedescription">Using Best Practice</div></div>', thumb : '', url : 'image/slider/3.jpg'},
+														{image : 'image/slider/4.jpg', title : '<div style="text-shadow: 0px 5px 6px rgba(151, 150, 150, 1);text-shadow: 5px 0px 6px rgba(151, 150, 150, 1);text-shadow: 0px -5px 6px rgba(151, 150, 150, 1);text-shadow: -5px 0px 6px rgba(151, 150, 150, 1);">We Create<div class="slidedescription">With Your Goals In Focus</div></div>', thumb : '', url : 'image/slider/4.jpg'},
+														{image : 'image/slider/5.jpg', title : '<div style="text-shadow: 00px 5px 6px rgba(151, 150, 150, 1);text-shadow: 5px 0px 6px rgba(151, 150, 150, 1);text-shadow: 0px -5px 6px rgba(151, 150, 150, 1);text-shadow: -5px 0px 6px rgba(151, 150, 150, 1);">We Market<div class="slidedescription">By Targeting Who Matters</div></div>', thumb : '', url : 'image/slider/5.jpg'}
 												],
 												
 					// Theme Options			   
